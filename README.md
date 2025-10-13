@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hallo Semua!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&text=Hai!%20Aku%20Putra%20%F0%9F%8C%B5&textBg=true"/>
 </p>
 
 
