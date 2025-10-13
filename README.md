@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **FroggyJumpys/FroggyJumpys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hallo Semua!🌵&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
+## Some information about me
+```yaml
+Nama: Muhammad Putra Ramadhan
+Hobby: Programming and playing games
+Dreams:
+[
+  "Membahagiakan orang tua.",
+  "Menikahi orang yang ku cintai."
+]
+
+Fields of interests:
+[
+  "Web Development",
+  "App Development",
+  "Mobile Development"
+]
+```
