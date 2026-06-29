@@ -6,10 +6,6 @@
 ✨ Just call me Putra<br>🎓 Studying at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari (UNISKA MAB)<br>📖 Currently studying about Web Development<br>⭐ Interest in Web Development, Game Development and App Development<br>🚀 Funfact: I like the color Pink
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FroggyJumpys) 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=froggyjumpys&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=froggyjumpys&theme=rose&hide_border=false)<br/>
