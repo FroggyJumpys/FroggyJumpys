@@ -1,13 +1,19 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&text=Hai!%20Aku%20Putra%20%F0%9F%8C%B5&textBg=true"/>
-</p> -->
+<h1 align="center">Heyho 👋, Froggy Here!</h1>
+<h3 align="center">Information Technology Student from Indonesia </h3>
+<p align="Center">Passionate on building Websites and Mobile App Developments</p>
 
-# 💫 About Me:
-✨ Just call me Putra<br>🎓 Studying at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari (UNISKA MAB)<br>📖 Currently studying about Web Development<br>⭐ Interest in Web Development, Game Development and App Development<br>🚀 Funfact: I like the color Pink
+<br>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=froggyjumpys&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=froggyjumpys&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+</div>
